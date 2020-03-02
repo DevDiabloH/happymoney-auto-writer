@@ -1,4 +1,3 @@
 # happymoney-auto-writer
 happymoney-auto-writer
-
-![](https://github.com/DevDiabloH/ImageSources/blob/master/happymoney-auto-write/sample.gif)
+![](https://github.com/DevDiabloH/ImageSources/blob/master/Happymoney-auto-write/sample.gif)
